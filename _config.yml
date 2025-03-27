@@ -107,10 +107,10 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Blog Example A: Irene'
         link: '/exhibits/a/'
       - label: 'Inline Image References'
-        link: 'testsm2/exhibits/b/'
+        link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
