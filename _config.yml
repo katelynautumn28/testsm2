@@ -100,23 +100,23 @@ menu:
   - label: 'About'
     sub:
       - label: 'Wax'
-        link: 'testsm2/about/'
+        link: '/about/'
       - label: 'Documentation'
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
-        link: 'testsm2/credits/'
+        link: '/credits/'
   - label: 'Exhibits'
     sub:
       - label: 'Inline Parallax Image'
-        link: 'testsm2/exhibits/a/'
+        link: '/exhibits/a/'
       - label: 'Inline Image References'
         link: 'testsm2/exhibits/b/'
   - label: 'Browse'
-    link: 'testsm2/collection/'
+    link: '/collection/'
   - label: 'Search'
-    link: 'testsm2/search/'
+    link: '/search/'
   - label: 'Reuse'
-    link: 'testsm2/reuse/'
+    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
