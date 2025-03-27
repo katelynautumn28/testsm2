@@ -108,9 +108,9 @@ menu:
   - label: 'Blog'
     sub:
       - label: 'Blog Example A: Irene'
-        link: '/blog/a/'
+        link: '/exhibits/a/'
       - label: 'Blog Example B: Sophia'
-        link: '/blog/b/'
+        link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
