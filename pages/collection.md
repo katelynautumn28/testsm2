@@ -9,13 +9,13 @@ This site's sample collection comprises a set of objects, each of which is repre
 ## By Location
 {% include collection_gallery.html facet_by='location' collection='testsm2' %}
 
-## By Object Type
+## By Subject
 
-### Manuscripts
-{% include collection_gallery.html facet_by='object_type' only='manuscript' collection='testsm2' %}
-### Portraits
-{% include collection_gallery.html facet_by='object_type' only='portrait' collection='testsm2' %}
-### Maps
-{% include collection_gallery.html facet_by='object_type' only='map' collection='testsm2' %}
-### Panels
-{% include collection_gallery.html facet_by='object_type' only='panel' collection='testsm2' %}
+### Slavery
+{% include collection_gallery.html facet_by='_tags' only='slavery' collection='testsm2' %}
+### Indigenous Peoples
+{% include collection_gallery.html facet_by='_tags' only='indigenous peoples' collection='testsm2' %}
+### Settler Colonialism
+{% include collection_gallery.html facet_by='_tags_' only='settler colonialism' collection='testsm2' %}
+### Women and Gender
+{% include collection_gallery.html facet_by='_tags' only='women/gender' collection='testsm2' %}
