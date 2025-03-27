@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: testsm2
-  pid: obj10
+  pid: cuid4751
   y: 25%
   clickable: yes
   height: '500px'
