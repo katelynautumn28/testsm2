@@ -21,7 +21,7 @@ title:            'Sylvester Manor Test 2'
 description:      'Still trying to figure this out'
 url:              'https://katelynautumn28.github.io'
 baseurl:          '/testsm2/'
-copyright:        'Example copyright org, 2023'
+copyright:        'New York University, 2025'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
 
@@ -105,7 +105,7 @@ menu:
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
-  - label: 'Blog'
+  - label: 'Exhibits'
     sub:
       - label: 'Blog Example A: Irene'
         link: '/exhibits/a/'
