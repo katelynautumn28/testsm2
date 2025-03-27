@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /exhibits/
+permalink: /blog/
 title: Featured Exhibits
 ---
 
