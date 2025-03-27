@@ -14,8 +14,8 @@ This site's sample collection comprises a set of objects, each of which is repre
 ### Slavery
 {% include collection_gallery.html facet_by='_tags' only='slavery' collection='testsm2' %}
 ### Indigenous Peoples
-{% include collection_gallery.html facet_by='_tags' only='indigenous peoples' collection='testsm2' %}
+{% include collection_gallery.html facet_by='_tags' only='indigenous-peoples' collection='testsm2' %}
 ### Settler Colonialism
-{% include collection_gallery.html facet_by='_tags_' only='settler colonialism' collection='testsm2' %}
+{% include collection_gallery.html facet_by='_tags_' only='settler-colonialism' collection='testsm2' %}
 ### Women and Gender
-{% include collection_gallery.html facet_by='_tags' only='women/gender' collection='testsm2' %}
+{% include collection_gallery.html facet_by='_tags' only='women-gender' collection='testsm2' %}
